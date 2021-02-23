@@ -1,0 +1,22 @@
+## PYTHON STATUS MD
+
+- Variables, types, values, assignment:  pretty good
+- Lists: pretty good
+- Dictionaries: pretty good
+- Sets: pretty good
+- Tuples: familiar, never used much
+- Basic operators: pretty good
+- Strings and string operations: pretty good
+- Conditionals/If statements: pretty good
+- While Loops: pretty good
+- For loops: pretty good
+- List comprehensions: pretty good
+- Functions: pretty good
+- Classes and Objects: pretty good
+- Importing modules: pretty good
+- Using the unittest module and writing assertions: Done in java, never in python
+- File handling: familiar, used it only a few times but I'v read up on it a lot
+- Regular expressions: pretty good
+- Exception handling (try/except): familiar
+- Decorators: familiar, never used much
+- Lambdas: familiar, never used much
